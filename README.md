@@ -1,7 +1,7 @@
 # libraryapp-springV2
 Updated library app
 
-Now instead of JBDStemplate, Hibernate and Spring Date JPA are used to work with the database.
+Now instead of JBDStemplate, Hibernate and Spring Data JPA are used to work with the database.
 
 Added new features, such as:
 - Pagination for books;
